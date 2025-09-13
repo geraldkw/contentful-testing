@@ -8,7 +8,7 @@ const useFetchProjects = () => {
   const client = createClient({
     space: 'm2w9cezvelgj',
     environment: 'master',
-    accessToken: 'oSeu1Powphcz39IHtpQY0caA7FWem8HkALnu41sVPyA',
+    accessToken: import.meta.env.VITE_API_KEY,
   });
 
   const getData = async () => {
