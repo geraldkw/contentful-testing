@@ -4,7 +4,7 @@ import Projects from './Projects';
 const App = () => {
   return (
     <main>
-      {/* <Hero></Hero> */}
+      <Hero></Hero>
       <Projects></Projects>
     </main>
   );

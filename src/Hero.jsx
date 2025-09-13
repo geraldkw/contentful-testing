@@ -5,11 +5,8 @@ const Hero = () => {
     <div className='hero'>
       <div className='hero-center'>
         <div className='hero-title'>
-          <h1 className=''>Resources Page</h1>
-          <p className='hero-'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus
-            commodi placeat omnis odio.
-          </p>
+          <h1 className=''>Weblinks Page</h1>
+          <p>My Weblinks</p>
         </div>
       </div>
       <img
